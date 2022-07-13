@@ -68,7 +68,30 @@
         "email_body":"Email Body",
         "enter_the_receivers_email":"Enter the receiver's email",
         "enter_the_email_subject":"Enter the email subject",
-        "enter_the_email_body":"Enter the email body"
+        "enter_the_email_body":"Enter the email body",
+        "catalog_id":"Catalog ID",
+        "single_product":"Single Product",
+        "multiple_product":"Multiple Product",
+        "api_type":"API Type",
+        "get":"GEt",
+        "put":"PUT",
+        "post":"POST",
+        "patch":"PATCH",
+        "delete":"DELETE",
+        "query_params":"Query Params",
+        "auth_method":"Auth Method",
+        "none":"None",
+        "basic":"Basic",
+        "bearer_token":"Bearer Token",
+        "digest":"Digest",
+        "oauth2_client_credential":"OAuth 2 - Client Credential",
+        "oauth2_password_credential":"OAuth 2 - Password Credential",
+        "import_from_curl":"Import from cURL",
+        "customer_tags":"Customer Tags",
+        "chat_tags":"Chat Tags",
+        "add_customer_tags":" Add Customer Tags",
+        "add_chat_tags":"Add Chat Tags"
+        
 
     }
 }
